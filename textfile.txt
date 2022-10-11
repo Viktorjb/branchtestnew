@@ -1,2 +1,4 @@
 hej detta är mer text
-ny rad i ny häftig branch (detta är online)
+
+ny rad i ny häftig branch (detta är online)(denna är lokal)
+
